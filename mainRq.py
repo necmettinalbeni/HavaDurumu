@@ -1,6 +1,6 @@
 import requests
 
-api_key = "a2a9a62427c22c7a0593be311c436d51"
+api_key = "write api key"
 
 city = input("Hava durumu için şehir adı girin: ")
 
